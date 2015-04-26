@@ -1,0 +1,9 @@
+pod 'Canvas', '~> 0.1.2'
+
+pod 'Spring', '~> 1.0.3'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+pod 'Google-Mobile-Ads-SDK'
+
+use_frameworks!
